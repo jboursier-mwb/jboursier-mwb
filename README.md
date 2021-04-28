@@ -1,1 +1,1 @@
-- 👋 Hi, I’m jboursier, working @Malwarebytes.
+👋 Hi, I’m jboursier, working @Malwarebytes.
