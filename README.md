@@ -19,3 +19,5 @@ t42s0DkgzsJVAP4vQ7a4OtcYntHrt2YztYIrHc3IpRhEcV6RmnB3qZH/CA==
 =YSHZ
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+_**Note**: My personal account is [@fr33tux](https://github.com/fr33tux)._
