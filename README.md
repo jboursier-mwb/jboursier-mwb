@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m jboursier
 
 
-👨‍💼 I'm a Principal Security Engineer (and `AdwCleaner` Technical Project Manager), mainly in charge of application security [@Malwarebytes](https://github.com/Malwarebytes).
+👨‍💼 I'm a Principal Security Engineer (and [`AdwCleaner`](https://malwarebytes.com/adwcleaner) Technical Project Manager), mainly in charge of application security [@Malwarebytes](https://github.com/Malwarebytes).
 
 🔏 ✉️ You can email me at [jboursier@malwarebytes.com](mailto:jboursier@malwarebytes.com), using my GPG key:
 
