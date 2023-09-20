@@ -3,7 +3,13 @@
 
 👨‍💼 I'm a Principal Security Engineer (and [`AdwCleaner`](https://malwarebytes.com/adwcleaner) Technical Project Manager), mainly in charge of application security [@Malwarebytes](https://github.com/Malwarebytes).
 
-🔏 ✉️ You can email me at [jboursier@malwarebytes.com](mailto:jboursier@malwarebytes.com), using my GPG key:
+🔏 You can send me encrypted data with [`age`](https://github.com/FiloSottile/age), using my key:
+
+```
+age1jmu6zlcguupqdcepy27stdpkyaavrrcnx6t8gyesfhwv9cx0s45q7cz9zv
+```
+
+🔏 ✉️ And you can email me at [jboursier@malwarebytes.com](mailto:jboursier@malwarebytes.com), using my GPG key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
