@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m jboursier
 
 
-👨‍💼 I'm a Principal Security Engineer (and [`AdwCleaner`](https://malwarebytes.com/adwcleaner) Technical Project Manager), mainly in charge of application security [@Malwarebytes](https://github.com/Malwarebytes) and [ThreatDown](https://www.threatdown.com/)
+👨‍💼 I'm a Principal Security Engineer (and [`AdwCleaner`](https://malwarebytes.com/adwcleaner) Technical Project Manager), mainly in charge of application security [@Malwarebytes](https://github.com/Malwarebytes) and [ThreatDown](https://www.threatdown.com/).
 
 🔏 You can send me encrypted data with [`age`](https://github.com/FiloSottile/age), using my key:
 
