@@ -3,6 +3,7 @@
 
 👨‍💼 I'm a Principal Security Engineer (and [`AdwCleaner`](https://malwarebytes.com/adwcleaner) Technical Project Manager), mainly in charge of application security [@Malwarebytes](https://github.com/Malwarebytes) and [ThreatDown](https://www.threatdown.com/).
 
+💬 Reach me on [`Signal`](https://signal.me/#eu/tmXBvYVlOnGina660xTkNEXPRcZ_-nnuhDCjM8xKC7Nsj53ifwxM4pZt0TQOtLhz) using my username:
 🔏 You can send me encrypted data with [`age`](https://github.com/FiloSottile/age), using my key:
 
 ```
